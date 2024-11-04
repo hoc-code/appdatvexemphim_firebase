@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454194441963",
+    "project_id": "appdatvexemphim-21",
+    "storage_bucket": "appdatvexemphim-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454194441963:android:38d3b44cdf46ef9a5a98ae",
+        "android_client_info": {
+          "package_name": "com.example.appdatvexemphim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq5cdJNfFTXTZwWr5Dd0kCB7HfTuvqWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
